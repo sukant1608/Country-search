@@ -3,21 +3,22 @@ Search about any country.
 
 To run the project on your localhost:
 
-1. Download the files and run command ìnpm iî for node modules.
-2. In your system run the command ìnpm run devî.
+1. Download the files and run command ‚Äúnpm i‚Äù for node modules.
+2. In your system run the command ‚Äúnpm run dev‚Äù.
 
 
 
 The user can search the country by its name:
 
+![First](./snapshots/first.PNG)
 
 
 The matching results appear in a list:
 
-
-
+![Second](./snapshots/second.PNG)
 
 
 The user can further view more details about the country:
+![Third](./snapshots/third.PNG)
 
 
