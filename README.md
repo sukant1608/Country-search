@@ -6,6 +6,7 @@ To run the project on your localhost:
 1. Download the files and run command “npm i” for node modules.
 2. In your system run the command “npm run dev”.
 
+Website Link: https://countries-search.herokuapp.com/
 
 
 The user can search the country by its name:
